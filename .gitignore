@@ -5,3 +5,6 @@ __pycache__
 dist/
 build/
 ploomber/wheels
+.env
+.solara_checked
+server_user_id.txt
